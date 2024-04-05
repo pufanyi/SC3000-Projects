@@ -1,0 +1,4 @@
+[submodule "lab1"]
+	path = lab1
+	url = git@github.com:ruochee723/SC3000-Balancing-Pole-on-Cart.git
+	branch = main
