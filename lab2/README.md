@@ -4,4 +4,4 @@
 
 [Report](report/Fanyi_YingXi_RuoChee_Assignment2.pdf)
 
-[Code](src/)
+[Code](https://github.com/pufanyi/SC3000-Projects/tree/main/lab2/src)
